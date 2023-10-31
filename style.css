@@ -17,3 +17,7 @@ body {
     font-size: 34px;
     font-weight: bold;
 }
+
+.container {
+    margin: 0 auto;
+}
