@@ -5,10 +5,15 @@ body {
 .smallTitle {
     text-align: center;
     font-size: small;
+    font-family: "Inter";
+    font-size: 14px;
+    font-weight: medium;
 }
 
 .bigTitle {
     text-align: center;
     font-size: large;
-    color: rgb(80, 80, 255);
+    font-family: "Inter";
+    font-size: 34px;
+    font-weight: bold;
 }
