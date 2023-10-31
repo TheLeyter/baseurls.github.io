@@ -1,7 +1,7 @@
 body {
     text-align: center;
   }
-  
+
 .smallTitle {
     text-align: center;
     font-size: small;
@@ -10,4 +10,5 @@ body {
 .bigTitle {
     text-align: center;
     font-size: large;
+    color: rgb(80, 80, 255);
 }
